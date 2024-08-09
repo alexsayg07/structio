@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 # Install Dependencies
 ```bash
-npm install next firebase dotenv
+npm install next firebase dotenv @mui/material 
 ```
 
 
